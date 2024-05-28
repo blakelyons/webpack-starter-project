@@ -1,4 +1,3 @@
-import generateJoke from "./generateJoke";
 import "./styles/main.scss";
 import "iconify-icon";
 
